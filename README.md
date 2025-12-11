@@ -1,9 +1,10 @@
 This project demonstrates how to use Bootstrap components to build a clean and responsive CV webpage.
 ## Features Used:
-- Card component
-- List groups
-- Bootstrap grid and spacing
-- Responsive image (rounded-circle)
-- Shadow and padding utilities
+- text-center for centering text
+- fw-bold for bold fonts
+- mb-4 for margin bottom
+- mt-4 for margin top
+- container for responsive layout
+- ul, li, and spacing classes
 
-Bootstrap helps create modern layouts with very little CSS.
+Bootstrap helps to create the website automatically responsive and well aligned with very little CSS.
